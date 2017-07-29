@@ -1,0 +1,32 @@
+#section{width:100%;height:800px;}
+#section .message{display:block;width:245px;height:81px;background:url(../img/header/beijing.png)no-repeat center;margin:0 auto;
+line-height:81px;text-align:center;font-size:24px;color:#ff4411;}
+.shouhuo{width:1200px;height:120px;margin:0 auto;}
+.shouhuo span{display:block;height:40px;line-height:40px;border-bottom:2px solid #FF4411;}
+.shouhuo p{height:25px;line-height:25px;background:#999999;margin-top:10px;}
+.shouhuo button{float:right;margin-top:10px;background:#FF4411;}
+.pay{width:1200px;height:120px;margin:0 auto;border-top:2px solid #FF4411;}
+.pay p{height:25px;line-height:25px;background:#999999;margin-top:10px;}
+.pay button{margin-top:20px;margin-right:20px;background:#FF4411;width:70px;height:40px;line-height:40px;text-align:center;}
+
+.xiangqing{width:1200px;height:470px;margin:0 auto;border-top:2px solid #FF4411;}
+.xiangqing span{height:25px;line-height:25px;background:#999999;margin-top:10px;display:block;}
+.xiangqing .xq-top{height:100px;padding:0 50px;}
+.xq-top p{float:left;display:block;width:100px;text-align:center;margin:42px 85px}
+.xiangqing .xq-foot{height:100px;border-top:2px solid #FF4411;border-bottom:2px solid #FF4411;;}
+.xq-foot .shangpin{width:320px;height:100px;float:left;margin:0 0px;overflow:hidden}
+.xq-foot .shangpin img{width:100px;height:100px;float:left;}
+.xq-foot .shangpin p{float:left;display:block;margin:30px 0;padding:0;width:220px;height:40px;text-overflow: ellipsis;overflow:hidden;font-size:14px;white-space: nowrap}
+.xq-foot p{display:block;width:90px;height:40px;float:left;margin:30px 90px;text-align:center;line-height:40px;font-size:18px;}
+
+.xq-footer button{margin-top:10px;background:#FF4411;float:left;width:70px;height:40px;text-align:center;line-height:40px;}
+.xq-footer .zongjia{float:left;margin-top:20px;margin-left:10px;font-size:20px;font-weight:600;}
+
+
+
+
+
+
+
+
+

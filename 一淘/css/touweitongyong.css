@@ -1,0 +1,115 @@
+.header-top{height: 40px;background-color:#f8f8f8;border-bottom: 1px solid #ebebeb;min-width:1200px;}
+.header-top-container{width: 1200px;margin: 0 auto;}
+.header-top-home{float: left;}
+.header-top-menu{float: right;}
+.header-top-menu li{float: left;padding-left:22px;}
+.header-top a{line-height:40px;color: #333;}
+.header-top .ht-login{color:red;}
+.header-top-container:after{content:'';display:block;clear:both;height:0;visibility:hidden;}
+
+.header-search-container{min-width:1200px;background:#FFFFFF;}
+.search-container{width:1200px;margin:0 auto;height:110px;}
+.search-container:after{content:"";display:block;clear:both;}
+.hs-logo{float:left;height:110px;}
+.hs-logo img{height:110px;width:325px;}
+.hs-code{float:right;height:110px;}
+.hs-code img{width:310px;height:110px;}
+.hs-content{width:490px;height:70px;text-align:center;float:left;margin-top:30px;}
+.hs-content .sousuo{width:430px;height:40px;border:2px #fb3434 solid;border-radius:5px 0 0 5px;float:left;padding:2px 5px;}
+.hs-content .tu{width:40px;height:44px;border:2px #fb3434 solid;border-radius:0 5px 5px 0px;float:left;background:#fb3434;}
+
+#section{width:100%;}
+#section nav {height: 50px;background-color: #fb3434;}
+
+.main-nav-container{padding:0 50px;}
+.main-nav-container li{float:left;width:10%;height:50px;background:#FB3434;color:#ffc31a;text-align:center;line-height:50px;}
+.main-nav-container li:hover{background:#FFC31A;color: #FB3434;}
+.main-nav-container:after{content:"";display:block;clear: both;}
+
+
+#footer{width:100%;height:400px;background:#444444;}
+.footer-about{width:1000px;margin:0 auto;height:250px;}
+.footer-about li{width:200px;height:250px;margin:0 auto;float:left;}
+.footer-about dl{margin-top:20px;}
+.footer-about dt{color:white;font-size:24px;font-weight:800;margin-bottom:20px;}
+.footer-about dd{height:28px;line-height:28px;padding-left:15px;}
+.footer-about dd a{color:white;font-size:16px;}
+
+.friend{width:1000px;height:70px;margin:0 auto;margin-top:20px;}
+.friend li{float:left;margin-left:10px;margin-top:10px;}
+.friend li a{font-size:14px;color:#999;text-decoration:none;}
+.friend .left{margin-left:290px;}
+.copy{width:300px;margin:0 auto;height:60px;color:#999999;}
+.copy p{margin-top:5px;}
+
+
+#section nav{;margin:0 auto;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
